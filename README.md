@@ -1,8 +1,13 @@
-# CookLine
+# Facebook API sample : CookLine
 
 This is a simple cooking app that uses node.js, express, ejs and the Facebook client-side JS SDK to demonstrate simple Open Graph principles.
 
 Authors: James Pearce (jamesgpearce)
+
+## Testing with CodeNow
+
+[![Code Now](https://friendco.de/widgets/image/codenow?url=https%3A%2F%2Fgithub.com%2FFriendCode%2Ffacebook-nodejs-sample.git)](https://friendco.de/widgets/url/codenow?url=https%3A%2F%2Fgithub.com%2FFriendCode%2Ffacebook-nodejs-sample.git)
+
 
 ## Installing
 
